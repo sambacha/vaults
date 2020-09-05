@@ -2,8 +2,8 @@
 __pycache__
 .history
 .hypothesis/
-build/
-reports/
+#build/
+#reports/
 
 # IDEs
 /.idea
